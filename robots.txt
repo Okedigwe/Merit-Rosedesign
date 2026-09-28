@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://merit-rosedesign.vercel.app/sitemap.xml
